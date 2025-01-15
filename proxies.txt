@@ -1,3 +1,1 @@
-#just example, please remove
-http://127.0.0.1:8080
-http://user:pass@127.0.0.1:8080
+http://01431470-zone-custom-region-US-sessid-dmxV4Z60-sessTime-120:Mb2swp7O@aus.360s5.com:3600
